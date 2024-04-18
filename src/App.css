@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+table thead tr td{
+  font-weight: 600;
+}
